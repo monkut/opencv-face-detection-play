@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dlib
+apistar>=0.5&<0.6
+requests
+
+
